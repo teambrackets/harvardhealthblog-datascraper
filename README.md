@@ -1,4 +1,4 @@
-# harvardhealthblog-dataextractor
+# harvardhealthblog-datascraper
 This is the python code for extracting the security advisories data from Howards Health Blog specifically
 
 Run all code in series wrna code nhi chalinga na data milinga
