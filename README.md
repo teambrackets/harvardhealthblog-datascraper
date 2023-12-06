@@ -1,4 +1,4 @@
-# harvardhealthblog-datascraper
+# Harvard's Health Blog - Data Scraper
 This is the python code to scrape the medical data from Harvard's Health Blog.
 
 Run all code in series wrna code nhi chalinga na data milinga
