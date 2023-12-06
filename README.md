@@ -1,11 +1,9 @@
 # harvardhealthblog-datascraper
-This is the python code for extracting the security advisories data from Howards Health Blog specifically
+This is the python code to scrape the medical data from Harvard's Health Blog.
 
 Run all code in series wrna code nhi chalinga na data milinga
 
 follow these simple steps:
-1. Run article_link_scrapper.py: scrapes all link which we have to scrape remober removing duplicates as real values are around 2900 and the value are repeated
-2. Run data_scrapper_from_links.py: this code scrapes the data from the links in .csv file save all articles seperately in designated directory. Make sure you removed dupilactes from the .csv file eairlier. Afterwards you have to compile all the text in one file code given in next file
-3. Run compiler.py: this code compiles all .txt file in the directory which we have scraped and you are done with the data you have scrapped the haward blog for health.
-
-Now you should have gotten the data.
+1. Run article_link_scraper.py: this code crapes all the link which we have to scrape and also removes duplicates.
+2. Run data_scrapper_from_links.py: this code scrapes the data from the links in .csv file save all articles seperately in designated directory. Make sure you have removed the dupilcates from the .csv file earlier.
+3. Run compiler.py: this code compiles all .txt file in the directory which we have scraped and finally you have gotten the data.
